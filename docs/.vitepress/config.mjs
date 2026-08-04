@@ -3,6 +3,9 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'Kitty Blog',
   description: 'Java / Spring Boot / Vue 技术笔记',
+  sitemap: {
+    hostname: 'https://Kitty-0512.github.io',
+  },
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
