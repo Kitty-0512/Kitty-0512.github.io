@@ -7,7 +7,7 @@ export default defineConfig({
     ['meta', { name: 'msvalidate.01', content: '91B7399AE12261064EE40FC425A3B381' }],
   ],
   sitemap: {
-    hostname: 'https://Kitty-0512.github.io',
+    hostname: 'https://kitty-0512.github.io',
   },
   themeConfig: {
     nav: [
