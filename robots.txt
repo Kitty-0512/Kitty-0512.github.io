@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://Kitty-0512.github.io/sitemap.xml
